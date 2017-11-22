@@ -1,12 +1,12 @@
 # Site settings
 title: Hardathon
-description: "Хардатон 2017, Москва. Люди, кофе, железяки"
-email: info@hardathon.ru
-# url: http://hardathon.ru
+description: "Первый железный хакатон в Ульяновске!"
+email: hardathon@futurelab.space
+url: https://hardathon.github.io
 
 # Social networks usernames
 social:
   - title: facebook
-    url: https://www.facebook.com/events/104752410053893/
+    url: https://www.facebook.com/events/1758370364390432/
   - title: vk
-    url: https://vk.com/hardathonmsk
+    url: http://vk.com/hardathon
