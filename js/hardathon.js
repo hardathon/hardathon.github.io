@@ -25,9 +25,8 @@ $(document).ready(function() {
 
     $('.intro').wallpaper({
         source: {
-            mp4: 'video/masthead-teaser.mp4',
-            ogg: 'video/masthead-teaser.ogv'
-            // webm:   "video/hero.webm"
+            mp4: '/video/masthead-teaser.mp4',
+            ogg: '/video/masthead-teaser.ogv'
         }
     });
 });
