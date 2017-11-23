@@ -12,11 +12,13 @@ $(function() {
     });
 });
 
+console.log('123');
 // fullPage initialization
 $(document).ready(function() {
+    console.log('321');
     $('#fullpage').fullpage({
-    	scrollingSpeed: 1000,    	
-    	responsiveWidth: 300,
+        scrollingSpeed: 1000,       
+        responsiveWidth: 300,
         responsiveHeight: 400,
         paddingBottom: '10px',
         paddingTop: '10px',
