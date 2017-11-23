@@ -42,7 +42,8 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
 }
 
 .header-video--media {
-    height: 100%;
+    min-height: 100%;
+    width: 100%;
     display: block;
 }
 
