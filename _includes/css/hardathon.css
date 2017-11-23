@@ -54,6 +54,15 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
   overflow: hidden;
 }
 
+.intro .container {
+    position: relative;
+    z-index: 200;
+    max-width: 675px;
+    padding: 130px 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .light {
     background-color: #FFFFFF;
     color: #424242;
