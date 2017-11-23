@@ -107,10 +107,6 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
     text-align: center;
 }
 
-.intro subsection {
-    position: : relative;
-}
-
 .intro .logo {
     height: auto;
     max-width: 100%;
