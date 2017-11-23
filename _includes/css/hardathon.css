@@ -43,7 +43,7 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
 
 .header-video--media {
     min-height: 100%;
-    width: 100%;
+    min-width: 100%;
     display: block;
     z-index: -10;
     position: absolute;
