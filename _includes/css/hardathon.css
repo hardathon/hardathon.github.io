@@ -57,15 +57,6 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
 
 .intro .container {
     position: relative;
-    z-index: 0;
-    width: 100%;
-    height: 100%;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.intro .subcontainer {
-    position: relative;
     z-index: 200;
     width: 100%;
     height: 100%;

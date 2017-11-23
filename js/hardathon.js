@@ -25,7 +25,7 @@ $(document).ready(function() {
         controlArrowColor: '#424242',
     });
 
-    $('.intro .container').wallpaper({
+    $('.intro .fp-tableCell').wallpaper({
         source: {
             mp4: '/video/masthead-teaser.mp4',
             ogg: '/video/masthead-teaser.ogv'
