@@ -22,4 +22,12 @@ $(document).ready(function() {
         paddingTop: '10px',
         controlArrowColor: '#424242',
     });
+
+    $('.intro').wallpaper({
+        source: {
+            mp4: 'video/masthead-teaser.mp4',
+            ogg: 'video/masthead-teaser.ogv'
+            // webm:   "video/hero.webm"
+        }
+    });
 });
