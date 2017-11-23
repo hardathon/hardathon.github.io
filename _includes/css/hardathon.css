@@ -89,11 +89,6 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
 .intro {
     color: #FFFFFF;
     text-align: center;
-    background: url(/img/background.jpg) no-repeat bottom center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 
