@@ -102,11 +102,14 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
 }
 
 .intro {
-    position: relative;
+    position: : relative;
     color: #FFFFFF;
     text-align: center;
 }
 
+.intro subsection {
+    position: : relative;
+}
 
 .intro .logo {
     height: auto;
