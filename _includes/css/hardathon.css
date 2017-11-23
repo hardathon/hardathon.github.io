@@ -41,6 +41,11 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
     margin-top: 15px;
 }
 
+.header-video--media {
+    height: 100%;
+    display: block;
+}
+
 .header-video {
   position: absolute;
   top: 0;
