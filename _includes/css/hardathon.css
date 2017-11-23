@@ -113,8 +113,8 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
 .intro .logo {
     height: auto;
     max-width: 100%;
-    box-shadow: 0 0 100px 40px rgba(0, 0, 0, 0.765);
-    background: rgba(0, 0, 0, 0.7);
+    box-shadow: 0 0 100px 40px rgba(0, 0, 0, 0.395);
+    background: rgba(0, 0, 0, 0.3);
 }
 
 .about1s {
