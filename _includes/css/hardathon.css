@@ -102,6 +102,7 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
 }
 
 .intro {
+    position: relative;
     color: #FFFFFF;
     text-align: center;
 }
