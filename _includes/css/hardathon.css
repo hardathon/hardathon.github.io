@@ -46,6 +46,7 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
     width: 100%;
     display: block;
     z-index: -10;
+    position: absolute;
 }
 
 .header-video {
