@@ -1,6 +1,6 @@
 <div class="section intro">
-    <div class="indented-container">
-        <img class="logo" src="/img/hardathon.png" alt="logo">
+    <div class="indented-container header-video">
+        <img src="img/background.jpg" class="header-video--media" data-video-src="134988609" data-teaser-source="video/masthead-teaser" data-provider="mp4" data-video-width="500" data-video-height="281">
         <p class="top-buffer-40px">
             &nbsp;Создай прототип за 48 часов
 	</p>
@@ -13,3 +13,15 @@
         </a>
     </div>
 </div>
+
+<script>
+    $(document).ready(function() {
+        $(".intro").wallpaper({
+            source: {
+                mp4:    "video/masthead-teaser.mp4",
+                ogg:    "video/masthead-teaser.ogv"
+                // webm:   "video/hero.webm"
+            }
+        });
+    });
+</script>
