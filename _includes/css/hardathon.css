@@ -29,6 +29,7 @@ p, label, input[type="text"], input[type="number"], textarea {
 
 ul {
     margin-top: 15px;
+    -webkit-padding-start: 30px;
 }
 
 
@@ -121,7 +122,7 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
 
 .about1s {
     color: #FFFFFF;
-    background: url(/img/2017/2.jpg) no-repeat bottom center scroll;
+    background: url(/img/2017/2.jpg) no-repeat bottom left scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
