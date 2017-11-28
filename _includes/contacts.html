@@ -1,14 +1,14 @@
 <div class="section dark contacts">
     <div class="indented-container">
-        <p>
-            Жми большую оранжевую кнопку чтобы зарегистрироваться!
+        <h2>
+            Ждем тебя на Хардатоне! 
+        </h2>
+        <p class="top-buffer-60px">
+            Стоимость участия 300 руб.
         </p>
         <a href="{{ "/register" | prepend: site.baseurl }}" type="button" class="btn btn-warning btn-lg">
-            Зарегистрироваться!
+            Стать участником
         </a>
-        <p class="top-buffer-60px">
-            Будь активным участником обсуждений в наших социальных сетях.
-        </p>
         <ul class="list-inline banner-social-buttons">
             {% for network in site.social %}
             <li>
@@ -21,11 +21,17 @@
             </li>
             {% endfor %}
         </ul>
-        <p class="top-buffer-60px">
-            Хотите помочь проекту? Пишите <a class="btn-details" href="mailto:svtlniva@gmail.com">нам</a>!
-        </p>
-        <p class="top-buffer-60px">
-            До встречи на хакатоне!
-        </p><br>
+        <div class="subcontacts">
+            <div class="subcontacts1">
+                <b>Контакты:</b><br />
+                <a href="mailto:info@hardathon.ru">info@hardathon.ru</a><br />
+                <a href="mailto:vasily.zhuravsky@gmail.com">vasily.zhuravsky@gmail.com</a>
+            </div>
+            <div class="subcontacts2">
+                <b>Партнерам:</b><br />
+                +79050351194<br />
+                <a href="mailto:info@Svtlniva@gmail.com">Svtlniva@gmail.com</a>
+            </div>
+        </div>
     </div>
 </div>

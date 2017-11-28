@@ -180,6 +180,17 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
     text-align: center;
 }
 
+.contacts h2 {
+    font-size: 81pt;
+    font-family: "Fira Sans";
+    font-weight: bold;
+}
+
+.contacts p {
+    font-size: 42pt;
+    font-family: "Fira Sans";
+}
+
 .payment {
     color: #FFFFFF;
     text-align: center;
