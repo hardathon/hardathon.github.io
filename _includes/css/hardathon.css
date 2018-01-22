@@ -256,6 +256,10 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
         margin-left: 40px;
         margin-right: 40px;
     }
+
+    .contacts h2 {
+        font-size: 30pt;
+    }
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -286,6 +290,10 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
     .indented-container {
         margin-left: 80px;
         margin-right: 80px;
+    }
+
+    .contacts h2 {
+        font-size: 40pt;
     }
 }
 
