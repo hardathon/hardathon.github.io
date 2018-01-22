@@ -257,16 +257,17 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
         margin-right: 40px;
     }
 
-    .contacts .p {
+    .contacts p {
         font-size: 15pt;
+        margin-bottom: 20px;
     }
 
     .contacts h2 {
         font-size: 30pt;
     }
 
-    .regbutton {
-        font-size: 15px;
+    .contacts .regbutton {
+        font-size: 20px;
     }
 
     .banner-social-buttons .network-name {
@@ -290,6 +291,7 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
     .contacts .subcontacts .subcontacts2 {
         float: none;
         margin: auto;
+        margin-top: 20px;
     }
 }
 
