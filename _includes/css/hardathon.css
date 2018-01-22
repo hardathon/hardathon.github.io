@@ -329,6 +329,47 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
         margin-left: 80px;
         margin-right: 80px;
     }
+
+    .contacts p {
+        font-size: 32pt;
+        margin-bottom: 40px;
+    }
+
+    .contacts h2 {
+        font-size: 40pt;
+    }
+
+    .contacts .regbutton {
+        font-size: 22px;
+    }
+
+    .banner-social-buttons .network-name {
+        display: inline-block;
+    }
+
+    .banner-social-buttons a {
+        font-size: 18px;
+    }
+
+    .contacts .subcontacts {
+        width: 700;
+        margin-top: 100px;
+        font-size: 22px;
+    }
+
+    .contacts .subcontacts b {
+        font-size: 24px;
+    }
+
+    .contacts .subcontacts .subcontacts1 {
+        float: left;
+        margin: none;
+    }
+
+    .contacts .subcontacts .subcontacts2 {
+        float: right;
+        margin: none;
+    }
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -354,6 +395,10 @@ form p, form label, form input[type="text"], form input[type="number"], textarea
 
     li {
         font-size: 26px;
+    }
+
+    .contacts h2 {
+        font-size: 60pt;
     }
 }
 
